@@ -55,7 +55,6 @@
 </table>
 <button id="actualizar" type="button" class="btn btn-primary">Actualizar</button>
 <button id="submit" type="button" class="btn btn-primary">Submit</button>
-<h1>Cambio Luisa</h1>
-<h1>cambio deiby</h1>
+
 
 
